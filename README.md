@@ -1,9 +1,22 @@
+# AI-Powered Sales Development Representative Email Outreach System
+
+## Purpose
+
+The AI-Powered SDR Email Outreach System aims to enhance sales development processes by automating email generation and follow-up responses. Utilizing advanced AI technologies, it streamlines prospect research, improves communication efficiency, and increases engagement rates, ultimately driving better sales outcomes.
 
 ## Demo
 
 <a href="https://www.youtube.com/watch?v=vSr9O0YUv3k" target="_blank">
   <img src="https://img.youtube.com/vi/vSr9O0YUv3k/maxresdefault.jpg" width="400" />
 </a>
+
+
+## Project Features
+
+- **Technologies Used**: AI-Powered SDR, FastAPI, Streamlit, LLM, SQLite, SMTP, IMAP
+- Integrated **Google Custom Search API** with **Sumy's LSA Summarizer** to generate prospect research reports from the web.
+- Utilized **Gemini's GenAI API** to generate and review personalized email drafts, incorporating automated feedback and improvements.
+- Implemented **SMTP** for sending emails and **IMAP** for monitoring replies, along with automated responses and SQLite storage.
 
 
 # Setup Instructions
