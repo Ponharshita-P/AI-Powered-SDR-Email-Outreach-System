@@ -19,9 +19,9 @@ The AI-Powered SDR Email Outreach System aims to enhance sales development proce
 - Implemented **SMTP** for sending emails and **IMAP** for monitoring replies, along with automated responses and SQLite storage.
 
 
-# Setup Instructions
+## Setup Instructions
 
-## Prerequisites
+### Prerequisites
 - Python 3.8 or higher
 - Virtual environment (recommended)
 - Required libraries (FastAPI, Streamlit, SQLite, etc.)
