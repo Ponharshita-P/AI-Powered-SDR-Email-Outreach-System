@@ -1,4 +1,4 @@
-# AI-Powered Sales Development Representative Email Outreach System
+# Sales Development Representative Email Outreach System
 
 ## Purpose
 
