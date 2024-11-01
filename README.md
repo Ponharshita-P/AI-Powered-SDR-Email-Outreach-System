@@ -1,6 +1,10 @@
 
 ## Demo
-[![Watch the demo]](https://www.youtube.com/watch?v=vSr9O0YUv3k)
+
+<a href="https://www.youtube.com/watch?v=vSr9O0YUv3k" target="_blank">
+  <img src="https://img.youtube.com/vi/vSr9O0YUv3k/maxresdefault.jpg" width="400" />
+</a>
+
 
 # Setup Instructions
 
