@@ -1,6 +1,6 @@
 
 ## Demo
-[![Watch the demo](https://img.youtube.com/vi/vSr9O0YUv3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=vSr9O0YUv3k)
+[![Watch the demo]](https://www.youtube.com/watch?v=vSr9O0YUv3k)
 
 # Setup Instructions
 
